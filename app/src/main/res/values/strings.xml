@@ -4,37 +4,38 @@
     <string name="wallpaper_desc">Bubbles with clicky and growy effects!</string>
     <string name="wallpaper_author">shagbag913</string>
     <string-array name="wallpaper_bubble_colors">
-        <item>#f03535</item>
-        <item>#ff4545</item>
 
-        <item>#0562ff</item>
-        <item>#1c70ff</item>
+        <!-- First color is the outside and the second is the inside -->
+        <!-- Pixel Blue -->
+        <item>#1868D0</item>
+        <item>#1A73E8</item>
 
-        <item>#21ff5c</item>
-        <item>#4fff7e</item>
+        <!-- Pixel Blue Dark Mode -->
+        <item>#679AEA</item>
+        <item>#8BB6FA</item>
 
-        <item>#fffc33</item>
-        <item>#fffd6e</item>
+        <!-- Pie Teal -->
+        <item>#28736D</item>
+        <item>#2B867F</item>
 
-        <item>#1ff0ff</item>
-        <item>#4ff3ff</item>
+        <!-- Pie Teal Dark Mode -->
+        <item>#19B0A3</item>
+        <item>#43BCB1</item>
 
-        <item>#f04aff</item>
-        <item>#f25cff</item>
+        <!-- Red -->
+        <item>#C12424</item>
+        <item>#D82020</item>
 
-        <item>#c229ff</item>
-        <item>#c840ff</item>
+        <!-- Purple Dark -->
+        <item>#63155F</item>
+        <item>#792775</item>
 
-        <item>#ff298d</item>
-        <item>#ff4fa1</item>
+        <!-- Purple Light -->
+        <item>#D105CA</item>
+        <item>#E81AE1</item>
 
-        <item>#9fff29</item>
-        <item>#b0ff4f</item>
-
-        <item>#30ffb6</item>
-        <item>#4fffc1</item>
-
-        <item>#ffc524</item>
-        <item>#ffce45</item>
+        <!-- Brown -->
+        <item>#653820</item>
+        <item>#774A33</item>
     </string-array>
 </resources>
